@@ -1,0 +1,5 @@
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache

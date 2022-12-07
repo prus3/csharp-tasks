@@ -1,0 +1,15 @@
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\bin\Debug\net6.0\Task10.exe
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\bin\Debug\net6.0\Task10.deps.json
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\bin\Debug\net6.0\Task10.runtimeconfig.json
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\bin\Debug\net6.0\Task10.dll
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\bin\Debug\net6.0\Task10.pdb
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\Task10.csproj.AssemblyReference.cache
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\Task10.AssemblyInfoInputs.cache
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\Task10.AssemblyInfo.cs
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\Task10.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\Task10.dll
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\refint\Task10.dll
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\Task10.pdb
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\Task10.genruntimeconfig.cache
+C:\Users\Виктор\Documents\Git2\Tasks\Task10\obj\Debug\net6.0\ref\Task10.dll
