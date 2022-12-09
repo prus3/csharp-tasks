@@ -2,7 +2,8 @@
 
 https://github.com/prus3/csharp-tasks/blob/main/README.md
 
-Или на каждую задачу в отдельности:
+
+Ссылки на каждую задачу в отдельности:
 
 https://github.com/prus3/csharp-tasks/blob/main/Task02/
 
