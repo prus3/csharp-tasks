@@ -13,3 +13,9 @@
 [Задача №13](https://github.com/prus3/csharp-tasks/blob/main/Task13/ "Задача №13")
 
 [Задача №15](https://github.com/prus3/csharp-tasks/blob/main/Task15/ "Задача №15")
+
+[Задача №19](https://github.com/prus3/csharp-tasks/blob/main/Task19/ "Задача №19")
+
+[Задача №21](https://github.com/prus3/csharp-tasks/blob/main/Task21/ "Задача №21")
+
+[Задача №23](https://github.com/prus3/csharp-tasks/blob/main/Task23/ "Задача №23")
