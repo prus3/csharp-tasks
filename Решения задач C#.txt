@@ -24,3 +24,4 @@ https://github.com/prus3/csharp-tasks/blob/main/Task19/
 https://github.com/prus3/csharp-tasks/blob/main/Task21/
 
 https://github.com/prus3/csharp-tasks/blob/main/Task23/
+
