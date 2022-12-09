@@ -3,3 +3,13 @@ C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.Genera
 C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
 C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
 C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\bin\Debug\net6.0\Task13.exe
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\bin\Debug\net6.0\Task13.deps.json
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\bin\Debug\net6.0\Task13.dll
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\bin\Debug\net6.0\Task13.pdb
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.dll
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\refint\Task13.dll
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.pdb
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
+C:\Users\Виктор\Documents\Git2\Tasks\Task13\obj\Debug\net6.0\ref\Task13.dll

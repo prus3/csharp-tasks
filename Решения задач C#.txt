@@ -1,0 +1,13 @@
+Ссылки на задачи находятся в сводном файле README.md
+
+https://github.com/prus3/csharp-tasks/blob/main/README.md
+
+Или на каждую задачу в отдельности:
+
+https://github.com/prus3/csharp-tasks/blob/main/Task02/
+
+https://github.com/prus3/csharp-tasks/blob/main/Task04/
+
+https://github.com/prus3/csharp-tasks/blob/main/Task06/
+
+https://github.com/prus3/csharp-tasks/blob/main/Task08/
