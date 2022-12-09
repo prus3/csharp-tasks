@@ -11,3 +11,9 @@ https://github.com/prus3/csharp-tasks/blob/main/Task04/
 https://github.com/prus3/csharp-tasks/blob/main/Task06/
 
 https://github.com/prus3/csharp-tasks/blob/main/Task08/
+
+https://github.com/prus3/csharp-tasks/blob/main/Task10/
+
+https://github.com/prus3/csharp-tasks/blob/main/Task13/
+
+https://github.com/prus3/csharp-tasks/blob/main/Task15/
