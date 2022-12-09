@@ -7,3 +7,9 @@
 [Задача №6](https://github.com/prus3/csharp-tasks/blob/main/Task06/ "Задача №6")
 
 [Задача №8](https://github.com/prus3/csharp-tasks/blob/main/Task08/ "Задача №8")
+
+[Задача №10](https://github.com/prus3/csharp-tasks/blob/main/Task10/ "Задача №10")
+
+[Задача №13](https://github.com/prus3/csharp-tasks/blob/main/Task13/ "Задача №13")
+
+[Задача №15](https://github.com/prus3/csharp-tasks/blob/main/Task15/ "Задача №15")
