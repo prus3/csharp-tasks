@@ -25,3 +25,18 @@ https://github.com/prus3/csharp-tasks/blob/main/Task21/
 
 https://github.com/prus3/csharp-tasks/blob/main/Task23/
 
+(https://github.com/prus3/csharp-tasks/blob/main/Task25/
+
+(https://github.com/prus3/csharp-tasks/blob/main/Task27/
+
+(https://github.com/prus3/csharp-tasks/blob/main/Task29/
+
+(https://github.com/prus3/csharp-tasks/blob/main/Task34/
+
+(https://github.com/prus3/csharp-tasks/blob/main/Task36/
+
+(https://github.com/prus3/csharp-tasks/blob/main/Task38/
+
+(https://github.com/prus3/csharp-tasks/blob/main/Task41/
+
+(https://github.com/prus3/csharp-tasks/blob/main/Task43/

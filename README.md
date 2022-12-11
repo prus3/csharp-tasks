@@ -19,3 +19,19 @@
 [Задача №21](https://github.com/prus3/csharp-tasks/blob/main/Task21/ "Задача №21")
 
 [Задача №23](https://github.com/prus3/csharp-tasks/blob/main/Task23/ "Задача №23")
+
+[Задача №25](https://github.com/prus3/csharp-tasks/blob/main/Task25/ "Задача №25")
+
+[Задача №27](https://github.com/prus3/csharp-tasks/blob/main/Task27/ "Задача №27")
+
+[Задача №29](https://github.com/prus3/csharp-tasks/blob/main/Task29/ "Задача №29")
+
+[Задача №34](https://github.com/prus3/csharp-tasks/blob/main/Task34/ "Задача №34")
+
+[Задача №36](https://github.com/prus3/csharp-tasks/blob/main/Task36/ "Задача №36")
+
+[Задача №38](https://github.com/prus3/csharp-tasks/blob/main/Task38/ "Задача №38")
+
+[Задача №41](https://github.com/prus3/csharp-tasks/blob/main/Task41/ "Задача №41")
+
+[Задача №43](https://github.com/prus3/csharp-tasks/blob/main/Task43/ "Задача №43")
