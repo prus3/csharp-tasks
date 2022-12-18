@@ -25,18 +25,34 @@ https://github.com/prus3/csharp-tasks/blob/main/Task21/
 
 https://github.com/prus3/csharp-tasks/blob/main/Task23/
 
-(https://github.com/prus3/csharp-tasks/blob/main/Task25/
+https://github.com/prus3/csharp-tasks/blob/main/Task25/
 
-(https://github.com/prus3/csharp-tasks/blob/main/Task27/
+https://github.com/prus3/csharp-tasks/blob/main/Task27/
 
-(https://github.com/prus3/csharp-tasks/blob/main/Task29/
+https://github.com/prus3/csharp-tasks/blob/main/Task29/
 
-(https://github.com/prus3/csharp-tasks/blob/main/Task34/
+https://github.com/prus3/csharp-tasks/blob/main/Task34/
 
-(https://github.com/prus3/csharp-tasks/blob/main/Task36/
+https://github.com/prus3/csharp-tasks/blob/main/Task36/
 
-(https://github.com/prus3/csharp-tasks/blob/main/Task38/
+https://github.com/prus3/csharp-tasks/blob/main/Task38/
 
-(https://github.com/prus3/csharp-tasks/blob/main/Task41/
+https://github.com/prus3/csharp-tasks/blob/main/Task41/
 
-(https://github.com/prus3/csharp-tasks/blob/main/Task43/
+https://github.com/prus3/csharp-tasks/blob/main/Task43/
+
+https://github.com/prus3/csharp-tasks/blob/main/Task47
+
+https://github.com/prus3/csharp-tasks/blob/main/Task50
+
+https://github.com/prus3/csharp-tasks/blob/main/Task52
+
+https://github.com/prus3/csharp-tasks/blob/main/Task54
+
+https://github.com/prus3/csharp-tasks/blob/main/Task56
+
+https://github.com/prus3/csharp-tasks/blob/main/Task58
+
+https://github.com/prus3/csharp-tasks/blob/main/Task60
+
+https://github.com/prus3/csharp-tasks/blob/main/Task62
