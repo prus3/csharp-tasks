@@ -56,3 +56,9 @@ https://github.com/prus3/csharp-tasks/blob/main/Task58
 https://github.com/prus3/csharp-tasks/blob/main/Task60
 
 https://github.com/prus3/csharp-tasks/blob/main/Task62
+
+https://github.com/prus3/csharp-tasks/blob/main/Task64
+
+https://github.com/prus3/csharp-tasks/blob/main/Task66
+
+https://github.com/prus3/csharp-tasks/blob/main/Task68
