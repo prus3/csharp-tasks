@@ -51,3 +51,10 @@
 [Задача №60](https://github.com/prus3/csharp-tasks/blob/main/Task60	"Задача №60")
 
 [Задача №62](https://github.com/prus3/csharp-tasks/blob/main/Task62	"Задача №62")
+
+[Задача №64](https://github.com/prus3/csharp-tasks/blob/main/Task64	"Задача №64")
+
+[Задача №66](https://github.com/prus3/csharp-tasks/blob/main/Task66	"Задача №66")
+
+[Задача №68](https://github.com/prus3/csharp-tasks/blob/main/Task68	"Задача №68")
+
