@@ -25,4 +25,4 @@
 
  ## Блок схема
 
-![scheme drawio](itog.drawio.png)
+![scheme drawio](itog.drawio1.png)
