@@ -1,0 +1,15 @@
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\bin\Debug\net6.0\TaskFin.exe
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\bin\Debug\net6.0\TaskFin.deps.json
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\bin\Debug\net6.0\TaskFin.runtimeconfig.json
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\bin\Debug\net6.0\TaskFin.dll
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\bin\Debug\net6.0\TaskFin.pdb
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\TaskFin.csproj.AssemblyReference.cache
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\TaskFin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\TaskFin.AssemblyInfoInputs.cache
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\TaskFin.AssemblyInfo.cs
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\TaskFin.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\TaskFin.dll
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\refint\TaskFin.dll
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\TaskFin.pdb
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\TaskFin.genruntimeconfig.cache
+C:\Users\Виктор\Documents\Git2\Tasks\TaskFin\obj\Debug\net6.0\ref\TaskFin.dll
